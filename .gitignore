@@ -13,3 +13,4 @@ hs_err_pid*
 
 server/DeviceServer/target/
 api/ApiServer/target/
+pi/DeviceClient/target/
